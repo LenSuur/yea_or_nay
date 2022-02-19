@@ -1,1 +1,1 @@
-abc...xyz 
+abc...xyz // algus .. ja LÕPP!!!
